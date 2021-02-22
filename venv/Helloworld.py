@@ -7,3 +7,5 @@ print("Add node Lenovo!")
 print("Receive!")
 
 print("~~~~~~~~~~~~~~~~~~~")
+
+print("Add node K2450")
